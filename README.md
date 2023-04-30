@@ -1,1 +1,3 @@
-# divvy-bike-share-analysis
+# Divvy Bike Share Analysis
+
+You are the lead analyst on a team hired to help Divvy address its bike rebalancing challenge (that is, moving bikes around its system of docks in anticipation of consumer demand). But before diving into the data, your team will need a plan for your analysis. The plan will force your team to clearly express the hypotheses they hold, articulate the important questions they will investigate, and identify the data they will collect (and where those data are housed). This plan will help your boss gain a solid understanding of the project’s context so they can better allocate team resources and respond more effectively to the requests of Divvy’s project sponsor. The clarity of the plan will allow your team to operate as efficiently as possible through the initial steps of your analysis journey, which can be a confusing and frustrating part of any project. 
